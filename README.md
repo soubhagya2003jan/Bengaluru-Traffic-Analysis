@@ -45,8 +45,6 @@ This project features a visually appealing dashboard built to analyze traffic da
 
 4. Customize filters and visuals as needed.
 
-5. Publish to Power BI Service for sharing (optional).
-
 ## Usage
 
 - Navigate using the sidebar (Overview, Traffic Trends, Congestion, Incidents, Behavior).
