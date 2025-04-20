@@ -1,6 +1,11 @@
-# Bangalore Traffic Analysis Dashboard
+![Fourth Page](https://github.com/user-attachments/assets/e917e465-5e35-4bbc-8fd4-6afa40d78249)# Bangalore Traffic Analysis Dashboard
 
 Welcome to the Bangalore Traffic Analysis Dashboard project! This dashboard provides a comprehensive overview of traffic patterns, congestion levels, and incidents in Bangalore, leveraging interactive visualizations to aid urban planning and decision-making.
+![First Page](https://github.com/user-attachments/assets/84508632-4f20-46fe-81ab-7f03364c443a)
+![Second Page](https://github.com/user-attachments/assets/af67957d-c876-4e19-b14c-8fce8d687eeb)
+![Third Page](https://github.com/user-attachments/assets/0b4162fd-41cd-47e1-a06e-217927ba9a69)
+![Fourth Page](https://github.com/user-attachments/assets/70ce6276-9cd0-4892-8292-7fdd49ba8244)
+![Fifth Page](https://github.com/user-attachments/assets/61a84baa-367d-4f63-82ea-6b4a00abbeef)
 
 ## Overview
 
@@ -47,17 +52,8 @@ This project features a visually appealing dashboard built to analyze traffic da
 - Adjust filters to drill down into specific data points.
 - Explore the "FUN FACT" section for interesting traffic insights.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests. Suggestions for new features or improvements are welcome!
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Acknowledgements
 
-- Data inspired by real-world traffic analysis (e.g., TomTom Traffic Index).
-- Thanks to the Urban Analytics team for the design inspiration.
-
-Happy analyzing!
