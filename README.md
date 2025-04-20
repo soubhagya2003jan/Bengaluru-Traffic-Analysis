@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the Bangalore Traffic Analysis Dashboard project! This dashboard provides a comprehensive overview of traffic patterns, congestion levels, and incidents in Bangalore, leveraging interactive visualizations to aid urban planning and decision-making.
+Welcome to the Bangalore Traffic Analysis Dashboard project! This dashboard provides a comprehensive overview of traffic patterns, congestion levels, and incidents in Bangalore, leveraging interactive visualizations to aid urban planning and decision-making. 
 
 # Visuals
 ![First Page](https://github.com/user-attachments/assets/84508632-4f20-46fe-81ab-7f03364c443a)
@@ -7,6 +7,13 @@ Welcome to the Bangalore Traffic Analysis Dashboard project! This dashboard prov
 ![Third Page](https://github.com/user-attachments/assets/0b4162fd-41cd-47e1-a06e-217927ba9a69)
 ![Fourth Page](https://github.com/user-attachments/assets/70ce6276-9cd0-4892-8292-7fdd49ba8244)
 ![Fifth Page](https://github.com/user-attachments/assets/61a84baa-367d-4f63-82ea-6b4a00abbeef)
+
+# Tools Used
+- Power BI
+- Power Query
+- Google Big Query
+- Dax
+- Figma
 
 ## Overview
 
